@@ -86,7 +86,6 @@ elif offset < 0:
     elif time <= -1:
         print("Monday") """
 
-
 # 5
 """
 def is_even(number):
@@ -142,6 +141,65 @@ a = print_digits(95)
 b = print_digits(100)
 c = print_digits(-150) """
 
+
 # 9
-def smaller_root(a,b,c):
-    
+"""def smaller_root(a, b, c):
+    ans = (b ** 2) - 4 * a * c
+    if ans >= 1 or ans == 0:
+        return print("(", b, "**2)-4*", a, "*", c)
+    else:
+        return print("Error: No real solutions")
+
+
+smaller_root(10, 20, 2)
+smaller_root(20, 5, 2) """
+# 10
+"""def there_is_odd(x,y,z):
+    test = x % 2
+    test2 = y % 2
+    test3 = z % 2
+    if test == 1:
+        return print("There is an odd number whose value is ", x)
+    elif test2 == 1:
+        return print("There is an odd number whose value is ", y)
+    elif test3 == 1:
+        return print("There is an odd number whose value is ", z)
+    else:
+        return print("There is no odd number")
+there_is_odd(2,3,4)
+there_is_odd(3,5,6)
+there_is_odd(4,10,20) """
+
+# 11
+"""def list_all_odds(w, x, y, z):
+    test = w % 2
+    test2 = x % 2
+    test3 = y % 2
+    test4 = z % 2
+    if test == 1:
+        print("There is an odd number whose value is ", w)
+        if test2 == 1:
+            print("There is an odd number whose value is ", x)
+            if test3 == 1:
+                print("There is an odd number whose value is ", y)
+                if test4 == 1:
+                    print("There is an odd number whose value is ", z)
+    else:
+        return print("There is no odd number")
+
+
+list_all_odds(5, 9, 8, 12)
+list_all_odds(13, 15, 17, 20)
+list_all_odds(2, 4, 6, 8) """
+
+# 12
+"""def max_of_three(x,y,z):
+    if x>y and x>z:
+        return print("The max value is",x)
+    if y>x and y>z:
+        return print("The max value is",y)
+    if z>x and z>y:
+        return print("The max value is",z)
+max_of_three(3,16,10)
+max_of_three(26,10,25)
+max_of_three(26,23,90) """
