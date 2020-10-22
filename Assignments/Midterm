@@ -1,0 +1,35 @@
+def name(lst):
+    x = input("Name : ")
+    lst.append(x)
+    return x
+
+
+def how(lst):
+    for i in lst:
+        print(i)
+
+
+def quit():
+    print("Bye")
+    exit(0)
+
+
+lst = []
+user = input("(N)ew (Q)uit : ")
+if user == "N" or user == "n":
+    print(name(lst), "added")
+    while True:
+        menu2 = input("(N)ew (S)how(D)elete (Q)uit : ")
+        if menu2 == "N" or menu2 == "n":
+            print(name(lst), "added")
+        elif menu2 == "S" or menu2 == "s":
+            how(lst)
+        elif menu2 == "D" or menu2 == "d":
+            print()
+        elif menu2 == "Q" or menu2 == "q":
+            quit()
+
+elif user == "Q" or user == "q":
+    print(quit())
+else:
+    print("Incorrect menu")

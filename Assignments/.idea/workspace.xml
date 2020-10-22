@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eff08f4-9a45-4619-a638-80a42e5fe88d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Coffee_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Square_root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee_machine_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Countries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Football Before Mid Term.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List Before Mid Term.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Midterm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Players.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polygon_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test mid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic_Tac_Toe_completed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_plotting_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_processing_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctest_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinwheel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/Square_root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +48,26 @@
     <option name="defaultAccountId" value="16e2b2a7-9eaf-4eb1-8002-3bc5f803a734" />
   </component>
   <component name="ProjectId" id="1bn3agZU3IFPzw4CWZvgjPWkZWa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../เดสก์ท็อป/Phyton" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Square_root">
-    <configuration name="Coffee_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\poom2\OneDrive\เอกสาร\GitHub\CP3-Poompitak-Poocharoen\Assignments\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data_processing_run">
+    <configuration name="Before Mid Term" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coffee_machine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Before Mid Term.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Square_root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Football Before Mid Term" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Square_root.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Football Before Mid Term.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test mid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test mid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex1_p10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_processing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex1_p10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_processing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_processing_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_processing_run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,14 +174,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Square_root" />
-        <item itemvalue="Python.Coffee_machine" />
-        <item itemvalue="Python.ex2" />
-        <item itemvalue="Python.Test2" />
-        <item itemvalue="Python.ex1_p10" />
+        <item itemvalue="Python.data_processing_run" />
+        <item itemvalue="Python.data_processing" />
+        <item itemvalue="Python.Test mid" />
+        <item itemvalue="Python.Football Before Mid Term" />
+        <item itemvalue="Python.Before Mid Term" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -166,23 +196,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="930" height="241" key="GridCell.Tab.0.bottom" timestamp="1598887962502">
+    <state x="652" y="298" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600963038161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598887962502" />
-    <state width="930" height="241" key="GridCell.Tab.0.center" timestamp="1598887962502">
+    <state x="652" y="298" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600963038161" />
+    <state width="1893" height="233" key="GridCell.Tab.0.bottom" timestamp="1603337894203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598887962502" />
-    <state width="930" height="241" key="GridCell.Tab.0.left" timestamp="1598887962502">
+    <state width="1893" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603337894203" />
+    <state width="1893" height="233" key="GridCell.Tab.0.center" timestamp="1603337894203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598887962502" />
-    <state width="930" height="241" key="GridCell.Tab.0.right" timestamp="1598887962502">
+    <state width="1893" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603337894203" />
+    <state width="1893" height="233" key="GridCell.Tab.0.left" timestamp="1603337894203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598887962502" />
+    <state width="1893" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603337894203" />
+    <state width="1893" height="233" key="GridCell.Tab.0.right" timestamp="1603337894203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603337894203" />
     <state x="337" y="75" key="SettingsEditor" timestamp="1597039646034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
